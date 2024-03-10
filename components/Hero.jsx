@@ -20,13 +20,13 @@ const ExampleComponent = () => {
     <TypeAnimation
       sequence={[
         // Same substring at the start will only be typed out once, initially
-        "We produce food for Mice",
+        "Gaurav",
         1000, // wait 1s before replacing "Mice" with "Hamsters"
-        "We produce food for Hamsters",
+        "UI Developer",
         1000,
-        "We produce food for Guinea Pigs",
+        "Photographer",
         1000,
-        "We produce food for Chinchillas",
+        "Web Developer",
         1000,
       ]}
       wrapper="span"
