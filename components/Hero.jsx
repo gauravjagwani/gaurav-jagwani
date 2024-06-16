@@ -81,7 +81,7 @@ const Hero = () => {
             </h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
               Driven by a passion for intuitive User Interfaces, I'm a Workday
-              Integration Developer with 1 year of experience building robust
+              Integration Developer with 1.5 year of experience building robust
               connections within the Workday ecosystem. Now, I'm eager to
               transition my technical expertise to the frontend, transforming
               data into engaging user experiences.
@@ -94,7 +94,7 @@ const Hero = () => {
                   Contact Me <Send size={18} />
                 </Button>
               </Link> */}
-              <Link href={process.env.NEXT_PUBLIC_DRIVE_LINK}>
+              <Link href={process.env.NEXT_PUBLIC_DRIVE_LINK} target="_blank">
                 <Button variant="secondary" className="gap-x-2">
                   Download CV <Download size={18} />
                 </Button>

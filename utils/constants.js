@@ -36,6 +36,31 @@ export const infoData = [
   },
 ];
 
+export const projects = [
+  {
+    title: "CineFlix Movie Recommendation",
+    img: "/CineFlix.png",
+    link: "https://cineflix-silk.vercel.app/",
+    // description: "An AI Powered Movie Recommendation Website",
+    description:
+      "CineFlix is your one-stop shop for movie and TV show recommendations! Feeling indecisive? Tell us your mood and our AI will suggest the perfect pick. Search for specific titles or browse by genre. Discover the latest on our daily and weekly carousels. Dive deeper with detailed movie/TV show info and cast listings. Powered by TMDB and Gemini AI.",
+  },
+  {
+    title: "BikePulse",
+    img: "/BikePulse.png",
+    link: "https://bikepulse.vercel.app/",
+    description:
+      "BikePulse is your one-stop shop for all things cycling! Explore our wide selection of bikes, filtering easily by category to find your ideal match. Whether you're a mountain conqueror or a city cruiser, we have the perfect bike for you. Add your favorites to your cart and get ready to hit the road!",
+  },
+  {
+    title: "Giphy Clone",
+    img: "/Giphy_clone.png",
+    link: "https://giphy-clone-lyart.vercel.app/",
+    description:
+      "Unleash your inner meme lord with Giphyfy, the ultimate GIF, sticker, and text playground! Toggle between filters to find the perfect reaction, search for specific gems, or explore curated categories. Dive into detailed GIF pages and share the laughter with friends.",
+  },
+];
+
 export const qualificationData = [
   {
     title: "education",
