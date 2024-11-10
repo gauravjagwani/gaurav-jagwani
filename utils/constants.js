@@ -46,12 +46,13 @@ export const projects = [
       "CineFlix is your one-stop shop for movie and TV show recommendations! Feeling indecisive? Tell us your mood and our AI will suggest the perfect pick. Search for specific titles or browse by genre. Discover the latest on our daily and weekly carousels. Dive deeper with detailed movie/TV show info and cast listings. Powered by TMDB and Gemini AI.",
   },
   {
-    title: "BikePulse",
-    img: "/BikePulse.png",
-    link: "https://bikepulse.vercel.app/",
+    title: "StayMate",
+    img: "/StayMate.png",
+    link: "https://stay-mate-qceq.vercel.app/",
     description:
-      "BikePulse is your one-stop shop for all things cycling! Explore our wide selection of bikes, filtering easily by category to find your ideal match. Whether you're a mountain conqueror or a city cruiser, we have the perfect bike for you. Add your favorites to your cart and get ready to hit the road!",
+      "Staymate is a home rental app where users can effortlessly create, post, and manage accommodations. It also enables travelers to browse and book a variety of available stays, making it a convenient, all-in-one platform for hosts and guests to connect and arrange accommodations seamlessly.",
   },
+
   {
     title: "Giphy Clone",
     img: "/Giphy_clone.png",
@@ -60,11 +61,11 @@ export const projects = [
       "Unleash your inner meme lord with Giphy, the ultimate GIF, sticker, and text playground! Toggle between filters to find the perfect reaction, search for specific gems, or explore curated categories. Dive into detailed GIF pages and share the laughter with friends.",
   },
   {
-    title: "StayMate",
-    img: "/StayMate.png",
-    link: "https://stay-mate-qceq.vercel.app/",
+    title: "BikePulse",
+    img: "/BikePulse.png",
+    link: "https://bikepulse.vercel.app/",
     description:
-      "Staymate is a home rental app where users can effortlessly create, post, and manage accommodations. It also enables travelers to browse and book a variety of available stays, making it a convenient, all-in-one platform for hosts and guests to connect and arrange accommodations seamlessly.",
+      "BikePulse is your one-stop shop for all things cycling! Explore our wide selection of bikes, filtering easily by category to find your ideal match. Whether you're a mountain conqueror or a city cruiser, we have the perfect bike for you. Add your favorites to your cart and get ready to hit the road!",
   },
 ];
 
