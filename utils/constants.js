@@ -57,7 +57,14 @@ export const projects = [
     img: "/Giphy_clone.png",
     link: "https://giphy-clone-lyart.vercel.app/",
     description:
-      "Unleash your inner meme lord with Giphyfy, the ultimate GIF, sticker, and text playground! Toggle between filters to find the perfect reaction, search for specific gems, or explore curated categories. Dive into detailed GIF pages and share the laughter with friends.",
+      "Unleash your inner meme lord with Giphy, the ultimate GIF, sticker, and text playground! Toggle between filters to find the perfect reaction, search for specific gems, or explore curated categories. Dive into detailed GIF pages and share the laughter with friends.",
+  },
+  {
+    title: "StayMate",
+    img: "/StayMate.png",
+    link: "https://stay-mate-qceq.vercel.app/",
+    description:
+      "Staymate is a home rental app where users can effortlessly create, post, and manage accommodations. It also enables travelers to browse and book a variety of available stays, making it a convenient, all-in-one platform for hosts and guests to connect and arrange accommodations seamlessly.",
   },
 ];
 

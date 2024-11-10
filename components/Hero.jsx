@@ -81,7 +81,7 @@ const Hero = () => {
             </h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
               Driven by a passion for intuitive User Interfaces, I'm a Workday
-              Integration Developer with 1.5 year of experience building robust
+              Integration Developer with 1.8 year of experience building robust
               connections within the Workday ecosystem. Now, I'm eager to
               transition my technical expertise to the frontend, transforming
               data into engaging user experiences.
