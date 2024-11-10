@@ -19,7 +19,7 @@ export const infoData = [
   },
   {
     icons: <MailIcon size={20} />,
-    text: "gauravjagwani8@gmail.com",
+    text: "gauravjagwani18@gmail.com",
   },
   {
     icons: <Calendar size={20} />,
@@ -41,7 +41,6 @@ export const projects = [
     title: "CineFlix Movie Recommendation",
     img: "/CineFlix.png",
     link: "https://cineflix-silk.vercel.app/",
-    // description: "An AI Powered Movie Recommendation Website",
     description:
       "CineFlix is your one-stop shop for movie and TV show recommendations! Feeling indecisive? Tell us your mood and our AI will suggest the perfect pick. Search for specific titles or browse by genre. Discover the latest on our daily and weekly carousels. Dive deeper with detailed movie/TV show info and cast listings. Powered by TMDB and Gemini AI.",
   },
