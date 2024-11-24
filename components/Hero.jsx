@@ -80,11 +80,12 @@ const Hero = () => {
               </span>
             </h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0">
-              Driven by a passion for intuitive User Interfaces, I'm a Workday
-              Integration Developer with 1.8 year of experience building robust
-              connections within the Workday ecosystem. Now, I'm eager to
-              transition my technical expertise to the frontend, transforming
-              data into engaging user experiences.
+              Driven by a passion for creating intuitive and visually appealing user interfaces, 
+              I specialize in building responsive, dynamic, and user-centric web applications. 
+              Skilled in ReactJS, Tailwind CSS, and Redux, I thrive on transforming complex 
+              ideas and data into seamless user experiences. With a focus on performance 
+              optimization and modern web technologies, I am dedicated to crafting interfaces 
+              that engage and delight users.
             </p>
             {/* buttons */}
 
