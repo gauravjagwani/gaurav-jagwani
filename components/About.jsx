@@ -54,7 +54,7 @@ const About = () => {
                   Experience of designing Intuiative User Interface
                 </h3>
                 <p className="subtitle max-w-xl mx-auto xl:mx-0">
-                  I'm Gaurav Jagwani, a passionate UI developer with 1+ years of
+                  I'm Gaurav Jagwani, a passionate UI developer with 1.5+ years of
                   experience in Front End and UI development. experiences. I'm
                   excited to contribute to creating captivating frontend
                   experiences.
